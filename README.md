@@ -4,7 +4,7 @@
   ![Daniel Fernando Santos GamesDev](https://github-readme-stats.vercel.app/api?username=Daniel-Fernando-Santos-GamesDev&show&show_icons=true&theme=radical)
 #
 
-## Meus conhecimentos em Programação 
+## Meus conhecimentos
 
 <div stile="display:inline_block"><br/>
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
